@@ -21,7 +21,7 @@
     "cz-conventional-changelog": "^2.1.0",
     "husky": "^0.14.3",
     "jest": "^23.1.0",
-    "uglify-js": "^3.3.25"
+    "uglify-js": "^3.8.0"
   },
   "repository": {
     "type": "git",
